@@ -27,6 +27,9 @@ It's way past my bedtime, so I'm going to put a list of conferences I've submitt
   * History of Programming Languages (HOPL)
   * Summit on Advances in Programming Languages (SNAPL)
   * International Conference on Functional Programming (ICFP)
-  * SPLASH
-  * ASPLOS
+  * Object-Oriented Programming, Systems, Languages & Applications (OOPSLA)
+  * Systems, Programming, Languages, and Applications: Software for Humanity (SPLASH)
+  * Architectural Support for Programming Languages and Operating Systems (ASPLOS)
   * International Conference on Software Engineering (ICSE)
+
+An amazing resource for the above list of conferences is the ACM SIGPLAN [YouTube Channel](https://www.youtube.com/channel/UCwG9512Wm7jSS6Iqshz4Dpg/playlists).
